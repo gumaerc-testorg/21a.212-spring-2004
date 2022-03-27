@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 55529c4b-69d0-06c7-d69b-ac13b3e7ac5a
 resourcetype: Document
 title: animals.pdf
 uid: 03f41334-456b-1b3a-66d4-6a170c003047

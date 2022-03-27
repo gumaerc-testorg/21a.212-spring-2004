@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 55529c4b-69d0-06c7-d69b-ac13b3e7ac5a
 resourcetype: Document
 title: homily.pdf
 uid: 3de761d3-31e8-6ef5-602a-2a5df895817a

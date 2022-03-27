@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c121580a-114e-4029-346b-c84d2544a3d9
 resourcetype: Document
 title: homily.pdf
 uid: abdf63b6-b668-8ae4-a178-a4d030c9f9fd

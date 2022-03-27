@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 55529c4b-69d0-06c7-d69b-ac13b3e7ac5a
 resourcetype: Document
 title: symbolculture.pdf
 uid: 8f0338f7-83a9-7b98-eb90-7ec1356e3d1a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 55529c4b-69d0-06c7-d69b-ac13b3e7ac5a
 resourcetype: Document
 title: persuasion.pdf
 uid: 7f88ec7c-0010-1ff5-167e-a4ec4cda77a2

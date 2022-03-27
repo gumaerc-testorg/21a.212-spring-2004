@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 55529c4b-69d0-06c7-d69b-ac13b3e7ac5a
 resourcetype: Document
 title: metaphortropes.pdf
 uid: 4e712003-e508-c9fb-c2c0-a73d0cdf5a4e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c121580a-114e-4029-346b-c84d2544a3d9
 resourcetype: Document
 title: laworder.pdf
 uid: fc101ed7-dcdc-3c84-db59-9d0679ab9af1

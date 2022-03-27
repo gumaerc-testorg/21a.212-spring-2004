@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c121580a-114e-4029-346b-c84d2544a3d9
 resourcetype: Document
 title: television.pdf
 uid: fbb2ee27-6c4a-3d51-62d0-c2729f6f4b16
