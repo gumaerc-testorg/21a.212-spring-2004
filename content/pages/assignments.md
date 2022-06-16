@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -43,7 +44,7 @@ Due before Lecture 14.
 Consultations will be individually scheduled.  
 Rewrite due by end of term.
 
-Student Sample ([PDF]({{< baseurl >}}/resources/bondry_of_meth_r)) (Courtesy of Shen Qu. Used with permission.)
+Student Sample ({{% resource_link 1cde17c4-c82a-a6d6-131c-995a82ebf762 "PDF" %}}) (Courtesy of Shen Qu. Used with permission.)
 
 Assignment 4
 ------------
@@ -82,7 +83,7 @@ Find and analyze an example from your own society or another you know well of ei
 
 Due on Lecture 20.
 
-Student Sample ([PDF]({{< baseurl >}}/resources/homily-1)) (Courtesy of Orlando Jaquez (MIT student). Used with permission.)
+Student Sample ({{% resource_link abdf63b6-b668-8ae4-a178-a4d030c9f9fd "PDF" %}}) (Courtesy of Orlando Jaquez (MIT student). Used with permission.)
 
 Assignment 6
 ------------
@@ -102,9 +103,9 @@ The form of analysis developed by Vladimir Propp and modified in the assigned re
 
 Due on Lecture 24.
 
-Student Sample 1 ([PDF]({{< baseurl >}}/resources/laworder-1)) (Courtesy of Corinne Packard (student). Used with permission.)
+Student Sample 1 ({{% resource_link fc101ed7-dcdc-3c84-db59-9d0679ab9af1 "PDF" %}}) (Courtesy of Corinne Packard (student). Used with permission.)
 
-Student Sample 2 ([PDF]({{< baseurl >}}/resources/television-1)) (Courtesy of Orlando Jaquez (MIT student). Used with permission.)
+Student Sample 2 ({{% resource_link fbb2ee27-6c4a-3d51-62d0-c2729f6f4b16 "PDF" %}}) (Courtesy of Orlando Jaquez (MIT student). Used with permission.)
 
 Assignment 8
 ------------

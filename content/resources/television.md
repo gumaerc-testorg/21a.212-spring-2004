@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21a-212-myth-ritual-and-symbolism-spring-2004/3a930f0e07d6465572d6ca6dc0dd7945_television.pdf
+file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/3a930f0e07d6465572d6ca6dc0dd7945_television.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
