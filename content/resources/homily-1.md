@@ -5,6 +5,7 @@ file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/abdf63b6b6688ae4a17
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homily.pdf
 uid: abdf63b6-b668-8ae4-a178-a4d030c9f9fd
 ---
 Sample student assignment. Courtesy of Orlando Jaquez.
-

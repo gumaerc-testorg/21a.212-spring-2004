@@ -5,6 +5,7 @@ file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/0ca667ed0a3d75557fa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: imperialism.pdf
 uid: 0ca667ed-0a3d-7555-7fa7-68c1cabb031e
 ---
 Notes from class discussion.
-

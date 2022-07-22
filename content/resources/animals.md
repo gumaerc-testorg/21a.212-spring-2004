@@ -5,6 +5,7 @@ file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/03f41334456b1b3a66d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: animals.pdf
 uid: 03f41334-456b-1b3a-66d4-6a170c003047
 ---
 Notes from class discussion.
-

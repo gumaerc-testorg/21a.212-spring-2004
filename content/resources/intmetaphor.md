@@ -5,6 +5,7 @@ file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/c76ed362cd3fb8565d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: intmetaphor.pdf
 uid: c76ed362-cd3f-b856-5d00-34c4f7d1ba58
 ---
 Notes from class discussion.
-

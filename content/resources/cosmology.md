@@ -5,6 +5,7 @@ file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/65cf1ea69585bf6fb1e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cosmology.pdf
 uid: 65cf1ea6-9585-bf6f-b1ed-185388c0a88f
 ---
 Notes from class discussion.
-

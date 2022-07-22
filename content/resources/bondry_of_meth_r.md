@@ -5,6 +5,7 @@ file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/1cde17c4c82aa6d6131
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bondry_of_meth_r.pdf
 uid: 1cde17c4-c82a-a6d6-131c-995a82ebf762
 ---
 Sample student assignment. Courtesy of Shen Qu.
-

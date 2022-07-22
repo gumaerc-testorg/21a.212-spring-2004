@@ -5,6 +5,7 @@ file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/7f88ec7c00101ff5167
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: persuasion.pdf
 uid: 7f88ec7c-0010-1ff5-167e-a4ec4cda77a2
 ---
 Notes from class discussion.
-

@@ -5,6 +5,7 @@ file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/fc101ed7dcdc3c84db5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: laworder.pdf
 uid: fc101ed7-dcdc-3c84-db59-9d0679ab9af1
 ---
 Sample student assignment. Courtesy of Corinne Packard.
-
