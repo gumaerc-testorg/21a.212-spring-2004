@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 55529c4b-69d0-06c7-d69b-ac13b3e7ac5a
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/introduction))
+Introduction ({{% resource_link 81914a73-db2b-6711-4dcf-98a706f4a777 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/introduction))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Culture, Sign and Symbol ([PDF]({{< baseurl >}}/resources/symbolculture))
+Culture, Sign and Symbol ({{% resource_link 8f0338f7-83a9-7b98-eb90-7ec1356e3d1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Culture, Sign and Symbol ([PDF]({{< baseurl >}}/resources/symbolculture))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Discuss _Illness as Metaphor_ ([PDF]({{< baseurl >}}/resources/illnessmetaphor))
+Discuss _Illness as Metaphor_ ({{% resource_link f030586f-8a2e-bd00-e499-e46629eeb977 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Discuss _Illness as Metaphor_ ([PDF]({{< baseurl >}}/resources/illnessmetaphor))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Metaphor and Other Tropes ([PDF]({{< baseurl >}}/resources/metaphortropes))
+Metaphor and Other Tropes ({{% resource_link 4e712003-e508-c9fb-c2c0-a73d0cdf5a4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Metaphor and Other Tropes ([PDF]({{< baseurl >}}/resources/metaphortropes))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-More Tropes ([PDF]({{< baseurl >}}/resources/moretropes))
+More Tropes ({{% resource_link 4268ac3c-b5ca-7d11-f36c-ecacb337b126 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ More Tropes ([PDF]({{< baseurl >}}/resources/moretropes))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Interpreting Metaphor ([PDF]({{< baseurl >}}/resources/intmetaphor))
+Interpreting Metaphor ({{% resource_link c76ed362-cd3f-b856-5d00-34c4f7d1ba58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Interpreting Metaphor ([PDF]({{< baseurl >}}/resources/intmetaphor))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Metaphorical Imperialism ([PDF]({{< baseurl >}}/resources/imperialism))
+Metaphorical Imperialism ({{% resource_link 0ca667ed-0a3d-7555-7fa7-68c1cabb031e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ Metaphorical Imperialism ([PDF]({{< baseurl >}}/resources/imperialism))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Animals ([PDF]({{< baseurl >}}/resources/animals))
+Animals ({{% resource_link 03f41334-456b-1b3a-66d4-6a170c003047 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ Animals ([PDF]({{< baseurl >}}/resources/animals))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Animals and Classification ([PDF]({{< baseurl >}}/resources/animals))
+Animals and Classification ({{% resource_link 03f41334-456b-1b3a-66d4-6a170c003047 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ Animals and Classification ([PDF]({{< baseurl >}}/resources/animals))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Roosters and Interpretation ([PDF]({{< baseurl >}}/resources/animals))
+Roosters and Interpretation ({{% resource_link 03f41334-456b-1b3a-66d4-6a170c003047 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Roosters and Interpretation ([PDF]({{< baseurl >}}/resources/animals))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-The Human Body ([PDF]({{< baseurl >}}/resources/humanbody))
+The Human Body ({{% resource_link 0ee5667e-9574-e948-2a73-fe607f6b80df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +125,7 @@ The Human Body ([PDF]({{< baseurl >}}/resources/humanbody))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-More Bodies ([PDF]({{< baseurl >}}/resources/humanbody))
+More Bodies ({{% resource_link 0ee5667e-9574-e948-2a73-fe607f6b80df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +134,7 @@ More Bodies ([PDF]({{< baseurl >}}/resources/humanbody))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Classification and Cosmology ([PDF]({{< baseurl >}}/resources/cosmology))
+Classification and Cosmology ({{% resource_link 65cf1ea6-9585-bf6f-b1ed-185388c0a88f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +143,7 @@ Classification and Cosmology ([PDF]({{< baseurl >}}/resources/cosmology))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Ritual ([PDF]({{< baseurl >}}/resources/ritiual))
+Ritual ({{% resource_link dfa0f917-b530-3ab8-e49c-98a4e0ab6f81 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Ritual ([PDF]({{< baseurl >}}/resources/ritiual))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Passage and Persuasion ([PDF]({{< baseurl >}}/resources/persuasion))
+Passage and Persuasion ({{% resource_link 7f88ec7c-0010-1ff5-167e-a4ec4cda77a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +161,7 @@ Passage and Persuasion ([PDF]({{< baseurl >}}/resources/persuasion))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Ritual and Power ([PDF]({{< baseurl >}}/resources/16ritiualpower))
+Ritual and Power ({{% resource_link efe1a9a6-a2b4-0bdf-2d35-acb873b3e71a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +170,7 @@ Ritual and Power ([PDF]({{< baseurl >}}/resources/16ritiualpower))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Magic and Ritual Curing ([PDF]({{< baseurl >}}/resources/17magicritualcu))
+Magic and Ritual Curing ({{% resource_link 3432881a-805c-22ec-6b41-ef8545a43e50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +179,7 @@ Magic and Ritual Curing ([PDF]({{< baseurl >}}/resources/17magicritualcu))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Narrative and Life ([PDF]({{< baseurl >}}/resources/18narrativelife))
+Narrative and Life ({{% resource_link b8c5d923-935b-ae84-2b18-251082377d81 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +188,7 @@ Narrative and Life ([PDF]({{< baseurl >}}/resources/18narrativelife))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Narrative and Control ([PDF]({{< baseurl >}}/resources/18narrativelife))
+Narrative and Control ({{% resource_link b8c5d923-935b-ae84-2b18-251082377d81 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +197,7 @@ Narrative and Control ([PDF]({{< baseurl >}}/resources/18narrativelife))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Folktale and Form ([PDF]({{< baseurl >}}/resources/18narrativelife))
+Folktale and Form ({{% resource_link b8c5d923-935b-ae84-2b18-251082377d81 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Folktale and Form ([PDF]({{< baseurl >}}/resources/18narrativelife))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Little Red Riding Hood and the Freudian Wolf ([PDF]({{< baseurl >}}/resources/21litleredriding))
+Little Red Riding Hood and the Freudian Wolf ({{% resource_link bf9ecd4a-f292-d259-337f-675bb49418ba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +215,7 @@ Little Red Riding Hood and the Freudian Wolf ([PDF]({{< baseurl >}}/resources/21
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Goldilocks Meets Oedipus ([PDF]({{< baseurl >}}/resources/22goldlkmetoedps))
+Goldilocks Meets Oedipus ({{% resource_link 0c1c31e1-426a-2127-2e36-61ad3d130d1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +224,7 @@ Goldilocks Meets Oedipus ([PDF]({{< baseurl >}}/resources/22goldlkmetoedps))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Hyenas and Demon Brides ([PDF]({{< baseurl >}}/resources/23hyenasdemonbr))
+Hyenas and Demon Brides ({{% resource_link 3a13a340-7108-8fc4-1e7d-062c052126c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +233,7 @@ Hyenas and Demon Brides ([PDF]({{< baseurl >}}/resources/23hyenasdemonbr))
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Jaguars, Vampires, and Starlets ([PDF]({{< baseurl >}}/resources/24jgrstrltvmpire))
+Jaguars, Vampires, and Starlets ({{% resource_link c28d178f-6f32-d84e-473b-c9d404b9a7e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
