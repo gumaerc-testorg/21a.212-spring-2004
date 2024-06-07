@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes from class discussion.
 file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/03f41334456b1b3a66d46a170c003047_animals.pdf
+file_size: 345171
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
