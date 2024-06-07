@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes from class discussion.
 file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/0ca667ed0a3d75557fa768c1cabb031e_imperialism.pdf
+file_size: 32663
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

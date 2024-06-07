@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student assignment. Courtesy of Corinne Packard.
 file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/fc101ed7dcdc3c84db599d0679ab9af1_laworder.pdf
+file_size: 32253
 file_type: application/pdf
 learning_resource_types:
 - Assignments
