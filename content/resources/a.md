@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/9182d96740784ed6f76d19b790aa8920_a.pdf
+file_size: 32253
 file_type: application/pdf
 learning_resource_types:
 - Assignments
