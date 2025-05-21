@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student assignment. Courtesy of Shen Qu.
-file: /ol-ocw-studio-app/courses/21a-212-myth-ritual-and-symbolism-spring-2004/1cde17c4c82aa6d6131c995a82ebf762_bondry_of_meth_r.pdf
+file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/1cde17c4c82aa6d6131c995a82ebf762_bondry_of_meth_r.pdf
 file_size: 22173
 file_type: application/pdf
 learning_resource_types:
