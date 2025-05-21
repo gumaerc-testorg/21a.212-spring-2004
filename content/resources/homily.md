@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21a-212-myth-ritual-and-symbolism-spring-2004/3de761d331e86ef5602a2a5df895817a_homily.pdf
+file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/3de761d331e86ef5602a2a5df895817a_homily.pdf
 file_size: 30799
 file_type: application/pdf
 learning_resource_types:
