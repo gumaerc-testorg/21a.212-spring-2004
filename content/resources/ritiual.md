@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes from class discussion.
-file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/dfa0f917b5303ab8e49c98a4e0ab6f81_ritiual.pdf
+file: /ol-ocw-studio-app/courses/21a-212-myth-ritual-and-symbolism-spring-2004/dfa0f917b5303ab8e49c98a4e0ab6f81_ritiual.pdf
 file_size: 22692
 file_type: application/pdf
 learning_resource_types:
