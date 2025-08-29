@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student assignment. Courtesy of Orlando Jaquez.
-file: /courses/21a-212-myth-ritual-and-symbolism-spring-2004/fbb2ee276c4a3d5162d0c2729f6f4b16_television.pdf
+file: /ol-ocw-studio-app/courses/21a-212-myth-ritual-and-symbolism-spring-2004/fbb2ee276c4a3d5162d0c2729f6f4b16_television.pdf
 file_size: 38332
 file_type: application/pdf
 learning_resource_types:
